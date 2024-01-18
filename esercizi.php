@@ -117,7 +117,7 @@ class Street extends City {
 
 $myLocation = new Street("Europa","Italia","Puglia","BA","Bari","Strada San Giorgio Martire 2D");
 
-//$myLocation->getMyCurrentLocation();
+$myLocation->getMyCurrentLocation();
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -254,6 +254,6 @@ class Amphibians extends Cold_blooded {
 
 $magikarp = new Fish();
 
-$cavallo = new Mammals();
+
 
 
